@@ -1,0 +1,2 @@
+# Smuta
+Smuta documents
